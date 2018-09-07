@@ -36,3 +36,6 @@ var funkyFunction = function() {
 //       return "FUNKY!";
 // }
 // }
+
+var theFunk = "FUNKY!";
+console.log(theFunk);
