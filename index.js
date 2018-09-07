@@ -33,3 +33,7 @@ var funkyFunction = function() {
 //     return "FUNKY!";
 //   }
 // }
+
+function theFunk(funkyFunction) {
+  return funkyFunction
+}
